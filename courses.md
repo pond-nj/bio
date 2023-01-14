@@ -59,16 +59,20 @@ Documented in this format:
     - testing paradigm: black-box, white-box
 
 ## Programming courses:
- - Problem Solving By Programming: teach C (A)
- - Introduction to Computing Using Java: teach Java (A)
+ - Problem Solving By Programming (A)
+   - teach C 
+ - Introduction to Computing Using Java (A)
+   - teach Java 
 
 ## Basic computer science courses:
  - Data Structures (A)
  - Discrete Mathematics (A)
  - Probability (A)
  - Design and Analysis of Algorithms (A)
- - Formal Languages and Automata Theory: Computation theory e.g. Turing Machine, P vs NP (A)
- - Digital Logic and Systems: latches, number representation e.g. two's complement, logic circuit (A-)
+ - Formal Languages and Automata Theory
+   - Computation theory e.g. Turing Machine, P vs NP (A)
+ - Digital Logic and Systems
+   - latches, number representation e.g. two's complement, logic circuit (A-)
  - Principles of Programming Language (taking)
 
 
