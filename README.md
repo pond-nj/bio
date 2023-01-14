@@ -5,4 +5,4 @@ This repo will record details of the practically interesting courses I have take
 
 The audiences of these information shall be 1) employers who are interested in my past experiences, and 2) anyone, probably at CUHK, who could use my past experiences to assist their academic decision making e.g. choosing which course to take.
 
-** Please see courses I have taken + details of each course in courses.md**
+**Please see courses I have taken + details of each course in `courses.md`**
