@@ -1,5 +1,9 @@
 # Courses
 
+Documented in this format:
+ - `course_name` (`grade`)
+   - `details`
+
 ## Postgrad Courses:
   - Information Theory (A-)
     - entropy, mututal information, KL divergence, typical sequence
@@ -51,8 +55,8 @@
    - concurrency: pthread, semaphore, mutex lock
   
  -  Software Engineering (A-)
-   - specification, implementation documentation techniques: FSM, Petri Nets, ER diagram, logic specification, UML, Graphical Design Notation, Data Flow Diagrams
-   - testing paradigm: black-box, white-box
+    - specification, implementation documentation techniques: FSM, Petri Nets, ER diagram, logic specification, UML, Graphical Design Notation, Data Flow Diagrams
+    - testing paradigm: black-box, white-box
 
 ## Programming courses:
  - Problem Solving By Programming: teach C (A)
@@ -65,6 +69,6 @@
  - Design and Analysis of Algorithms (A)
  - Formal Languages and Automata Theory: Computation theory e.g. Turing Machine, P vs NP (A)
  - Digital Logic and Systems: latches, number representation e.g. two's complement, logic circuit (A-)
- - Principles of Programming Lang.
+ - Principles of Programming Language (taking)
 
 
