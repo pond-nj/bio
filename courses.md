@@ -6,10 +6,10 @@ Documented in this format:
 ## Selected Courseworks:
  - Hadoop MapReduce Programming from IERG4300 Web-Scale Information Analytics
     - implement algorithm for dealing with big data using Hadoop MapReduce framework including
-     - Community Detection Algorithm
-     - Frequent Itemsets Algorithm
-     - Page Rank Algorithm
-     - Clustering Algorithm
+      - Community Detection Algorithm
+      - Frequent Itemsets Algorithm
+      - Page Rank Algorithm
+      - Clustering Algorithm
  
  - Parallel programming from CSCI4160 Distributed and Parallel Computing
     - solve Skyline Problem using multiple parallel computing framework including OpenMP, MPI, and CUDA 
