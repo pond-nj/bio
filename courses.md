@@ -3,6 +3,15 @@
 Documented in this format:
  - `course_name` (`grade`)
    - `details`
+## Selected Courseworks:
+ - Hadoop MapReduce Programming from IERG4300 Web-Scale Information Analytics
+    - implement algorithm for dealing with big data using Hadoop MapReduce framework including
+     - page ranking algorithm
+     - set similarity algorithm
+     -  
+ 
+ - Parallel programming (OpenMP, MPI, CUDA) from CSCI4160 Distributed and Parallel Computing
+    - 
 
 ## Postgrad Courses:
   - Information Theory (A-)
